@@ -1,0 +1,29 @@
+body {
+    font-family: 'Satoshi', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-smooth: antialiased;
+}
+
+input[type="text"], button {
+    font-family: 'Satoshi', sans-serif;
+    border-radius: 15px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+input[type="text"] {
+    margin-right: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #D90404;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0D0D0D;
+}
